@@ -9,6 +9,8 @@ The dashboard provides insights into:
 - Category-wise sales growth and trends
 - Business-ready KPIs designed for decision-making
 
+![Sales Analytics Dashboard](Images/Dashboard.jpg)
+
 ## Tools & Technologies
 - **Azure Fabric** – Cloud data management and analytics
 - **Spark SQL** – Data transformation and querying
@@ -26,3 +28,4 @@ The dashboard provides insights into:
 │   ├── Table.jpg
 │   └── README.md
 └── README.md
+```
