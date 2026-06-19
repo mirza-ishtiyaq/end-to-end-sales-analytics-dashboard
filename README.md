@@ -7,7 +7,7 @@ This repository contains an enterprise-grade, end-to-end business intelligence s
 
 ## Project Interface Overview
 
-![Enterprise Sales Analytics Dashboard](Images/Dashboard.jpg)
+![Enterprise Sales Analytics Dashboard](file:///var/folders/hd/1xt7_7tx5wdc7sqndpk2zj0h0000gn/T/TemporaryItems/NSIRD_screencaptureui_VZmS7E/Screenshot%202026-06-20%20at%201.47.17%E2%80%AFAM.png)
 
 The master dashboard interface provides real-time visibility into high-level performance metrics, macro trajectories, and seasonal fluctuations to facilitate immediate corporate evaluation.
 
